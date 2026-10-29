@@ -1,4 +1,4 @@
-# 🍛 Spice Corner – Food Menu Website
+# 🍛 AA Hotel – Food Menu Website
 
 A simple restaurant menu website built with HTML, CSS and JavaScript.
 
